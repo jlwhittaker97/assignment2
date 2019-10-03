@@ -42,3 +42,7 @@ To https://github.com/jlwhittaker97/assignment2.git
     However in "Dictator-Lieutenants" workflow, the developers might push to different lieutenants, so there is more of a 'middle man' than the other workflow.
 
 (j) When having 100 developers, the "Dictator-Lieutenants" workflow is much more efficient than the "Centralized" workflow because by allowing the lieutenant to merge changes and solve conflicts. This makes less work for all the developers.
+
+
+5. The driving simulator is using both polymorphism and encapsulation. In main.cpp, polymorphism is seen within the vehiclesArray. Each of the Vehicle types passed into the array are of different child processes.
+  In the files that have a private variable that is then accessed via their corresponding get and set functions, there is encapsulation. 
